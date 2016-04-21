@@ -6,7 +6,7 @@
 
 ### Cel
 
-proces budowania zakończony sukcesem, bez błędów w konsoli
+Proces budowania zakończony sukcesem, bez błędów w konsoli.
 
 ### Treść
 
@@ -17,12 +17,17 @@ podczas budowania aplikacji za pomocą polecania `npm run build`.
 
 ### Jak sprawdzić rozwiązanie?
 
-Jeśli poprawiłeś aplikację i jesteś przekonany co do rozwiązania
+Jeśli poprawiłeś aplikację i jesteś przekonany co do rozwiązania,
 to aby sprawdzić, czy zadanie rozwiązałeś poprawnie skorzystaj
 z polecenia `npm test`.
 
 ![](./screenshots/works.png)
 
-W przypadku nie powodzenia otrzymać komunikat podobny do takiego
+W przypadku niepowodzenia otrzymać komunikat podobny do takiego:
 
 ![](./screenshots/failure.png)
+
+## Rozwiązanie
+
+Rozwiązania zgłaszamy jako Pull Request.
+Aby zabawa była interesujące to przed rozwiązaniem nie zaglądamy do nich.
