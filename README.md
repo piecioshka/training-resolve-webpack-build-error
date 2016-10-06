@@ -1,4 +1,4 @@
-# training-resolve-webpack-building-error
+# training-resolve-webpack-build-error
 
 > Zadanie, aby poprawić swoje umiejętności korzystania z narzędzi `webpack`, `babel`.
 
