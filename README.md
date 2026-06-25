@@ -31,3 +31,7 @@ W przypadku niepowodzenia otrzymać komunikat podobny do takiego:
 
 Rozwiązania zgłaszamy jako Pull Request.
 Aby zabawa była interesujące to przed rozwiązaniem nie zaglądamy do nich.
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
